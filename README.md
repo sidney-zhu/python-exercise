@@ -1,2 +1,2 @@
-# python-exercise
-This is a bunch of python file for python learning.
+# python-game
+This is a tiny text-based game for python learning.
